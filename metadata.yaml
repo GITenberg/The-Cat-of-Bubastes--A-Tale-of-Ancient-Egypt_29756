@@ -1,0 +1,37 @@
+_repo: The-Cat-of-Bubastes--A-Tale-of-Ancient-Egypt_29756
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Weguelin, J. R. (John Reinhard)
+    alias: Weguelin, John Reinhard
+    birthdate: 1849
+    deathdate: 1927
+    gutenberg_agent_id: '34133'
+    url: http://www.gutenberg.org/2009/agents/34133
+covers:
+- cover_type: archival
+  image_path: 29756-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_issued: '2009-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29756'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- History -- To 332 B.C. -- Fiction'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcc 'PZ'
+title: 'The Cat of Bubastes: A Tale of Ancient Egypt'
+url: http://www.gutenberg.org/ebooks/29756
